@@ -9,13 +9,13 @@
       "minecraft:use_duration": 32,
       "minecraft:food": {
         "nutrition": 2,
-        "saturation_modifier": "low",
+        "saturation_modifier": "normal",
         "effects": [
           {
             "name": "poison",
-            "chance": 0.6,
-            "duration": 5,
-            "amplifier": 0
+            "chance": 1.0,
+            "duration": 10,
+            "amplifier": 5
           }
         ]
       }
