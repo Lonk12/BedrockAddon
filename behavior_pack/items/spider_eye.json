@@ -15,8 +15,8 @@
           {
             "name": "poison",
             "chance": 1.0,
-            "duration": 5,
-            "amplifier": 0
+            "duration": 10,
+            "amplifier": 1
           }
         ]
       }
