@@ -9,13 +9,13 @@
       "minecraft:use_duration": 32,
       "minecraft:food": {
         "nutrition": 4,
-        "saturation_modifier": "poor",
+        "saturation_modifier": "normal",
         "effects": [
           {
             "name": "hunger",
-            "chance": 0.8,
+            "chance": 1.0,
             "duration": 30,
-            "amplifier": 0
+            "amplifier": 1
           }
         ]
       }
