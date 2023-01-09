@@ -18,14 +18,14 @@
           {
             "name": "regeneration",
             "chance": 1.0,
-            "duration": 5,
+            "duration": 120,
             "amplifier": 1
           },
           {
             "name": "absorption",
             "chance": 1.0,
             "duration": 120, // 2 * 60
-            "amplifier": 0
+            "amplifier": 1
           }
         ]
       }
