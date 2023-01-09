@@ -10,7 +10,7 @@
 
       "minecraft:food": {
         "nutrition": 2,
-        "saturation_modifier": "low"
+        "saturation_modifier": "normal"
       }
     }
   }
