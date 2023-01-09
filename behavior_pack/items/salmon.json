@@ -12,7 +12,7 @@
 
       "minecraft:food": {
         "nutrition": 2,
-        "saturation_modifier": "poor"
+        "saturation_modifier": "normal"
       }
     }
   }
