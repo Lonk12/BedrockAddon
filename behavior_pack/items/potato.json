@@ -9,8 +9,8 @@
       "minecraft:use_duration": 32,
 
       "minecraft:food": {
-        "nutrition": 1,
-        "saturation_modifier": "low"
+        "nutrition": 2,
+        "saturation_modifier": "normal"
       },
       "minecraft:seed": {
         "crop_result": "potatoes"
