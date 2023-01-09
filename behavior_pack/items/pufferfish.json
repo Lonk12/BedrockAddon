@@ -11,22 +11,22 @@
       "minecraft:stacked_by_data": true,
 
       "minecraft:food": {
-        "nutrition": 1,
-        "saturation_modifier": "poor",
+        "nutrition": 2,
+        "saturation_modifier": "normal",
         "effects": [
           {
             "name": "poison",
             "duration": 60,
-            "amplifier": 1
+            "amplifier": 2
           },
           {
             "name": "nausea", // confusion
-            "duration": 15,
-            "amplifier": 1
+            "duration": 60,
+            "amplifier": 2
           },
           {
             "name": "hunger",
-            "duration": 15,
+            "duration": 60,
             "amplifier": 2
           }
         ]
